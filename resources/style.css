@@ -4,13 +4,47 @@ html {
 h1, #nav, #process, .work {
   text-align: center;
 }
-h1, #nav, #designed, #footer {
+
+.whitetext {
   color: white;
 }
+
 h1, h2, h3, h4 {
   font-weight: bold;
 }
 h1 {
+    font-size: 70px;
+}
+
+#header {
   background-image: url("the-flatiron-building.png");
-  font-size: 70px;
+}
+
+#nav {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+#designed {
+  background-image: url("the-flatiron-building.png");
+}
+
+#footer {
+  font-size: 11px;
+  background-color: dimgray;
+}
+
+p {
+  font-size: 14px;
+}
+
+#footer {
+  text-align: left;
 }
